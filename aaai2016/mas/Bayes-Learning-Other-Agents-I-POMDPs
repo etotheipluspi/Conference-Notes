@@ -1,0 +1,16 @@
+
+
+Use subintentinal models to reduce model space of hierarchical beliefs (using finite state controller - policy graph
+like??)
+
+Stick breaking distribution to draw edges for the policy graph -> Chinese restaurant process
+
+How to determine the number of nodes? 
+
+
+
+
+
+
+
+
